@@ -37,6 +37,8 @@ Displays classified outputs on an intuitive interface with Start/Stop controls f
 
 * Designed using SolidWorks to house components securely and ensure patient comfort.
 * Light weight headband will be implemented in future
+
+
 ![enc](resource_images/enc.png)
 ![enc1](resource_images/enc1.png)
 
@@ -81,3 +83,17 @@ Displays classified outputs on an intuitive interface with Start/Stop controls f
 **Code**: Available in the repository (please specify the filename if uploaded separately). 📂
 
 > ⚠️ Note: Both models are still in the testing phase and require real-world validation to ensure reliability in clinical settings. 🧼
+
+###Future Directions 🚀
+
+**Clinical Trials and Validation* 🏥: Plan and conduct trials to evaluate system efficacy and safety in real-world healthcare settings.
+
+**Ethical Review and Compliance** 📋: Collaborate with IRBs and regulatory bodies for ethical approval and ensure compliance with medical device standards.
+
+**Real-Time Feedback Integration** ⏱️: Incorporate real-time feedback to improve system responsiveness and adaptability.
+
+**Multi-Modal Input Fusion** 🔄: Explore integration with other biosignals (e.g., eye tracking, EMG) to enhance reliability and communication depth.
+
+**Personalized Calibration** ⚙️: Introduce user-specific training sessions to adapt models to individual EEG signatures for improved accuracy.
+
+🧠 *The ultimate goal is to provide an accessible and life-enhancing tool for individuals who cannot rely on traditional communication methods.
