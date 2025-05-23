@@ -86,7 +86,7 @@ Displays classified outputs on an intuitive interface with Start/Stop controls f
 
 ###Future Directions 🚀
 
-**Clinical Trials and Validation* 🏥: Plan and conduct trials to evaluate system efficacy and safety in real-world healthcare settings.
+**Clinical Trials and Validation** 🏥: Plan and conduct trials to evaluate system efficacy and safety in real-world healthcare settings.
 
 **Ethical Review and Compliance** 📋: Collaborate with IRBs and regulatory bodies for ethical approval and ensure compliance with medical device standards.
 
@@ -96,4 +96,4 @@ Displays classified outputs on an intuitive interface with Start/Stop controls f
 
 **Personalized Calibration** ⚙️: Introduce user-specific training sessions to adapt models to individual EEG signatures for improved accuracy.
 
-🧠 *The ultimate goal is to provide an accessible and life-enhancing tool for individuals who cannot rely on traditional communication methods.
+🧠 The ultimate goal is to provide an accessible and life-enhancing tool for individuals who cannot rely on traditional communication methods.
