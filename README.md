@@ -1,5 +1,5 @@
 # EEG-Based Communication System for Paralyzed Patients 🧠💬
-![Conceptual Overview](Documents/resource_images/welcome.png)
+![Conceptual Overview](resource_images/welcome.png)
 
 ## Overview 🌟
 
