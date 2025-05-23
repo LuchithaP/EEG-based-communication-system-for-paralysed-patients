@@ -57,7 +57,7 @@ Designed using SolidWorks to house components securely and ensure patient comfor
 * **Manual Label Creation ❌**: Labels were created by calculating power in frequency bands (Delta, Theta, Alpha, Beta, Gamma) and manually assigning "Yes" or "No", which introduced potential bias and inaccuracy.
 * **Single Time Instance ⏰**: Used only one time instance instead of a sequence of time steps, limiting temporal context for classification.
 
-**Dataset**: Sourced from Kaggle Motor Imagery Dataset. 📊
+**Dataset**: Sourced from [Kaggle EEG Muse 2 Motor Imagery Dataset](https://www.kaggle.com/datasets/muhammadatefelkaffas/eeg-muse2-motor-imagery-brain-electrical-activity). 📊
 
 **Code**: Available in `eeg-motor-imagery.ipynb`. 💻
 
@@ -75,4 +75,3 @@ Designed using SolidWorks to house components securely and ensure patient comfor
 **Code**: Available in the repository (please specify the filename if uploaded separately). 📂
 
 > ⚠️ Note: Both models are still in the testing phase and require real-world validation to ensure reliability in clinical settings. 🧼
-
