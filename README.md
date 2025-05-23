@@ -35,7 +35,10 @@ Displays classified outputs on an intuitive interface with Start/Stop controls f
 
 ### Enclosure 🛡️
 
-Designed using SolidWorks to house components securely and ensure patient comfort.
+* Designed using SolidWorks to house components securely and ensure patient comfort.
+* Light weight headband will be implemented in future
+![enc](resource_images/enc.png)
+![enc1](resource_images/enc1.png)
 
 ## Key Hardware Components ⚙️
 
@@ -52,6 +55,7 @@ Designed using SolidWorks to house components securely and ensure patient comfor
 **Description**: Utilizes a 1D CNN for binary classification of EEG signals into "Yes" or "No". The model includes two Conv1D layers (32 and 64 filters, ReLU activation), MaxPooling1D layers, a Dense layer with dropout (0.5), and a final sigmoid layer. Trained on a motor imagery dataset from Kaggle for 100 epochs with 32 batches.
 
 **Performance**: Achieved \~70% accuracy in binary classification. ⚖️
+![version1](resource_images/ui_1.png)
 
 **Challenges**:
 
@@ -65,6 +69,7 @@ Designed using SolidWorks to house components securely and ensure patient comfor
 ### Version 2: Unsupervised K-means Clustering 🌐
 
 **Description**: Transitioned to an unsupervised K-means clustering model to address limitations of the supervised approach. This version clusters EEG signal features without relying on manually created labels, improving robustness and reducing bias.
+![version2](resource_images/ui_2.png)
 
 **Improvements**:
 
